@@ -20,6 +20,7 @@
     <a href="https://www.w3.org/html/" target="_blank"><img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"><img alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://reactnative.dev/" target="_blank"><img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
